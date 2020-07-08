@@ -6,7 +6,7 @@ PaOah Keyboard - For Ubuntu
 
 ibus-table
 ```
-sudo apt install ibus-clutter ibus-gtk ibus-gtk3
+sudo apt install ibus ibus-table ibus-clutter ibus-gtk ibus-gtk3
 ```
 
 ## Installation
